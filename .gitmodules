@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "benford.analysis"]
-	path = benford.analysis
-	url = https://github.com/carloscinelli/benford.analysis
-	shallow = true
-	registered = true
 [submodule "NetworkRiskMeasures"]
 	path = NetworkRiskMeasures
 	url = https://github.com/carloscinelli/networkriskmeasures
@@ -16,6 +11,11 @@
 [submodule "sensemakr"]
 	path = sensemakr
 	url = https://github.com/carloscinelli/sensemakr
+	shallow = true
+	registered = true
+[submodule "benford.analysis"]
+	path = benford.analysis
+	url = https://github.com/carloscinelli/benford.analysis
 	shallow = true
 	registered = true
 [submodule "sValues"]

@@ -1,14 +1,14 @@
 [
   {
-    "package": "benford.analysis",
-    "oncran": true
-  },
-  {
     "package": "NetworkRiskMeasures",
     "oncran": true
   },
   {
     "package": "sensemakr",
+    "oncran": true
+  },
+  {
+    "package": "benford.analysis",
     "oncran": true
   },
   {
