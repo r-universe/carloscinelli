@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "benford.analysis"]
-	path = benford.analysis
-	url = https://github.com/carloscinelli/benford.analysis
 [submodule "NetworkRiskMeasures"]
 	path = NetworkRiskMeasures
 	url = https://github.com/carloscinelli/networkriskmeasures
-[submodule "sensemakr"]
-	path = sensemakr
-	url = https://github.com/carloscinelli/sensemakr
+[submodule "benford.analysis"]
+	path = benford.analysis
+	url = https://github.com/carloscinelli/benford.analysis
 [submodule "sValues"]
 	path = sValues
 	url = https://github.com/carloscinelli/svalues
+[submodule "sensemakr"]
+	path = sensemakr
+	url = https://github.com/carloscinelli/sensemakr
