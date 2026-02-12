@@ -8,6 +8,9 @@
 [submodule "benford.analysis"]
 	path = benford.analysis
 	url = https://github.com/carloscinelli/benford.analysis
+[submodule "iv.sensemakr"]
+	path = iv.sensemakr
+	url = https://github.com/carloscinelli/iv.sensemakr
 [submodule "sValues"]
 	path = sValues
 	url = https://github.com/carloscinelli/svalues
